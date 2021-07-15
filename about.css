@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: #35424a;
+}
+
+.container .navbar{
+    height: 80px;
+}
+
+.logo{
+    font-family: sans-serif;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    color: white;
+    font-size: 35px;
+}
+
+.navbar ul{
+    margin-right: 20px;
+    margin-left: 50px;
+    text-decoration: none;
+    list-style-type: none;
+    /* display: inline-block; */
+    list-style: none;
+    float: right;
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 8px;
+    margin-top: 34px;
+}
+
+.sağ-köşe{
+    font-family: sans-serif;
+    color: purple;
+}
+
+.renk{
+    color: purple;
+}
+
+.about{
+    color: white;
+    text-decoration: none;
+}
+
+.çizgi{
+    /* width: 100%; */
+    border-style: solid;
+    color: purple;
+    border-width: 2px;
+}
+
+.abone{
+    padding: auto;
+    margin: 29px 35px 0px;
+    /* margin-top: 29px; */
+    position: absolute;
+}
+
+.arka-plan-1{
+    font-family: sans-serif;
+    background-color: #35424a;
+    color: white;
+    /* margin: 0 0 auto auto; */
+    /* position: relative; */
+}
+
+.e-mail{
+    padding-bottom: 20px;
+    /* padding: 0 5px auto 25px; */
+    margin-top: -54px;
+}
+
+.e-mail-sağ{
+    text-align: right;
+    padding: 80px 27px 0;
+}
+
+.e-mail-sağ input{
+    text-align: left;
+    padding: 10px 11px 7px 11px;
+    margin-bottom: -5px;
+}
+
+.e-mail-sağ input:focus{
+    outline: 0;
+    box-shadow: none;
+}
+
+.gönder{
+    color: white;
+    background-color: #e8491d;
+    border: none;
+}
+
+.about-us{
+    font-family: sans-serif;
+    color: black;
+    /* border: 3px solid black; */
+    width: 75px;
+    margin: 25px;
+}
+
+.paragraf-1{
+    font-family: sans-serif;
+    /* border: 3px solid black; */
+    /* text-align: center; */
+    width: 750px;
+    margin: 25px;
+}
+
+.paragraf-2{
+    font-family: sans-serif;
+    width: 750px;
+    margin: 25px;
+    background-color: #35424a;
+    color: white;
+    padding: 8px 2px 5px 10px;
+    margin-left: 24px;
+}
+
+.sağ-köşe-1{
+    /* padding: 25px; */
+    background-color: #35424a;
+    color: white;
+    padding-top: 19px;
+    padding-bottom: 15px;
+    margin: 0 20px 5px 10px;
+}
+
+.what-do{
+    font-family: sans-serif;
+    /* text-align: right; */
+    padding-left: 850px;
+}
+
+.paragraf-3{
+    font-family: sans-serif;
+    width: 400px;
+    padding-left: 850px;
+    margin-top: 7px;
+    
+}
+
+.alt-orta{
+    background-color: #35424a;
+    height: 90px;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.alt-orta p{
+    text-align: center;
+    padding-top: 17px;
+}
+
+.alt-orta img{
+    height: 40px;
+    padding-top: 7px;
+}

@@ -1,0 +1,124 @@
+.arka-plan-1{
+    background-color: #35424a;
+    height: 75px;
+    border-radius: 100px;
+}
+
+.sol-üst-köşe{
+    font-family: sans-serif;
+    color: white;
+    padding: 16px;
+    font-size: 35px;
+}
+
+.clarusway-renk{
+    color: #80456c;
+}
+
+.sağ-üst-köşe{
+    text-align: right;
+    clear: both;
+    display: inline;
+    float: right;
+}
+
+.ana-sayfa{
+    font-family: sans-serif;
+    color: purple;
+    margin: 0 8px;
+    /* text-decoration: none; */
+    /* list-style-type: none; */
+    display: inline-flex;
+    /* padding: 0 25px; */
+    /* position: inherit; */
+    /* clear: both; */
+    list-style: none;
+    line-height: -80px;
+}
+
+.navbar
+
+.about{
+    /* color: white; */
+    text-decoration: none;
+}
+
+.çizgi{
+    width: 100%;
+    border-style: solid;
+    color: purple;
+    border-width: 2px;
+}
+
+.açıklama{
+    text-align: center;
+}
+
+.e-mail-sağ{
+    margin-right: auto;
+    text-align: right;
+    padding: 15px 25px 20px 30px;
+}
+
+.abone{
+    font-family: sans-serif;
+    color: white;
+    padding: 23px 5px 20px 20px;
+}
+
+.html5{
+    width: 300px;
+    text-align: center;
+}
+
+.html-orta{
+    text-align: center;
+    margin: auto 0 0 0;
+}
+
+.html-foto{
+    height: 100px;
+    display: flex;
+    margin-right: auto;
+    margin: 0 auto;
+}
+
+.css{
+    text-align: center;
+}
+
+.css-1{
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.css-foto{
+    /* width: 100px; */
+    height: 125px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.grafik{
+    text-align: right;
+}
+
+.grafik-1{
+    height: 100px;
+    display: flex;
+    margin: 0 auto;
+    
+}
+
+
+.grafik-2{
+    width: 300px;
+    text-align: center;
+    margin: 0 0 0 auto;
+    
+}
+
+.alt-orta{
+    text-align: center;
+}
